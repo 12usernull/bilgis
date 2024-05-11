@@ -1,2 +1,2 @@
-# bilgis
-Bilgiş ana kod
+# Bilgiş
+Bilgiş ana kodu.
