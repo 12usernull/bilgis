@@ -1,0 +1,2 @@
+# bilgis
+Bilgiş ana kod
